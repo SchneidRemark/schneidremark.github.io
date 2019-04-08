@@ -1,0 +1,26 @@
+a {
+	color: green;
+}
+div {
+	border:	1px solid black;
+}
+#exec-bio {
+	background-color: lightgray;
+} 
+.azure-class {
+	background-color: azure;
+}
+.bio-box {
+	border: 1px solid black;
+}
+.bio-box a {
+	color: green;
+}
+.h1-item a{
+	color: yellow;
+}
+#h1-another-item {
+	background-color: orange;
+}
+
+<!-- classes have dots, id's have dashes -->
